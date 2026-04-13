@@ -1,5 +1,7 @@
 data/
 responses/
 venv/
+csvs/
+mds/
 .env
 .DS_Store
