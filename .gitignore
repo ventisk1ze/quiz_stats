@@ -5,3 +5,4 @@ csvs/
 mds/
 .env
 .DS_Store
+raw_mds/
