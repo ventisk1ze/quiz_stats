@@ -6,3 +6,5 @@ mds/
 .env
 .DS_Store
 raw_mds/
+__pycache__/
+labels.xlsx
